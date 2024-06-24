@@ -5,7 +5,7 @@
 <style>
 body {font-family: Arial;}
 
-/* Style the tab demo */
+/* Style the tab demo now */
 .tab {
   overflow: hidden;
   border: 1px solid #ccc;
